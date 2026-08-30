@@ -13,6 +13,7 @@ abstract: >-
   breadth, and rolling launch-service reliability in pharmaceutical R&D
   portfolios.
 version: 1.0.0
+DOI: 10.5281/zenodo.22178964
 date-released: 2026-08-30
 repository-code: "https://github.com/MRDOANE/prism-portfolio-concentration"
 license: MIT

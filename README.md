@@ -1,5 +1,7 @@
 # PRISM portfolio concentration simulation
 
+DOI: 10.5281/zenodo.22178964
+
 [![Tests](https://github.com/MRDOANE/prism-portfolio-concentration/actions/workflows/tests.yml/badge.svg)](https://github.com/MRDOANE/prism-portfolio-concentration/actions/workflows/tests.yml)
 
 This repository contains the simulation code, prespecified configurations,
