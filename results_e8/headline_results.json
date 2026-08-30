@@ -1,0 +1,157 @@
+{
+  "additivity_regret": {
+    "fraction_regret_above_100m": 0.07,
+    "fraction_regret_above_50m": 0.637,
+    "maximum_eNPV_regret_usd_m": 159.68588511337725,
+    "mean_eNPV_regret_usd_m": 60.83698442350731,
+    "median_eNPV_regret_usd_m": 58.95247804035122,
+    "q90_eNPV_regret_usd_m": 93.75327636533787,
+    "wrong_choice_fraction": 1.0
+  },
+  "base_growth_solution_fraction": {
+    "msog_c0": 0.0,
+    "msog_c25": 0.0,
+    "piap_c0": 0.0,
+    "piap_c25": 0.0
+  },
+  "confirmation_cells": 8,
+  "confirmation_runs_per_cell": 250000,
+  "launch_breadth_two_at_80pct": {
+    "Diversified": {
+      "achieved_service_probability": 0.804972,
+      "effective_breadth": 19.02144618957653,
+      "minimum_nominal_breadth": 19
+    },
+    "MSOG trios": {
+      "achieved_service_probability": 0.814972,
+      "effective_breadth": 16.936870238804023,
+      "minimum_nominal_breadth": 21
+    },
+    "PIAP sixes": {
+      "achieved_service_probability": 0.80142,
+      "effective_breadth": 12.247760214327414,
+      "minimum_nominal_breadth": 25
+    }
+  },
+  "msog_c0_frontier": {
+    "fraction_all_cells_cleared_by_20pct": 0.496,
+    "fraction_all_cells_cleared_by_25pct": 0.806,
+    "median": 0.2,
+    "q10": 0.12,
+    "q25": 0.16,
+    "q75": 0.23,
+    "q90": 0.27,
+    "solution_fraction": 0.941
+  },
+  "msog_c25_frontier": {
+    "fraction_all_cells_cleared_by_20pct": 0.482,
+    "fraction_all_cells_cleared_by_25pct": 0.806,
+    "median": 0.2,
+    "q10": 0.15,
+    "q25": 0.18,
+    "q75": 0.23,
+    "q90": 0.27,
+    "solution_fraction": 0.94
+  },
+  "n_lhs_cells": 1000,
+  "piap_c0_frontier": {
+    "fraction_all_cells_cleared_by_20pct": 0.256,
+    "fraction_all_cells_cleared_by_25pct": 0.575,
+    "median": 0.23,
+    "q10": 0.15,
+    "q25": 0.19,
+    "q75": 0.26,
+    "q90": 0.29,
+    "solution_fraction": 0.83
+  },
+  "piap_c25_frontier": {
+    "fraction_all_cells_cleared_by_20pct": 0.205,
+    "fraction_all_cells_cleared_by_25pct": 0.573,
+    "median": 0.23,
+    "q10": 0.18,
+    "q25": 0.21,
+    "q75": 0.26,
+    "q90": 0.29,
+    "solution_fraction": 0.83
+  },
+  "staging": {
+    "fraction_eNPV_improved": 0.0,
+    "median_delta_base_breach_probability": 0.1198371139717988,
+    "median_delta_eDevCost_usd_m": -114.10881166561569,
+    "median_delta_eNPV_usd_m": -428.1521835576955,
+    "median_delta_protected_runway_years": -2.7041944550945187,
+    "median_delta_two_launches_by_year9": -0.1822922665348093,
+    "q10_delta_eNPV_usd_m": -558.8612890090461,
+    "q90_delta_eNPV_usd_m": -312.60449043891265
+  },
+  "univariate_frontier_associations": {
+    "msog": {
+      "mean_cost_multiplier": {
+        "p_value": 4.304333597506453e-243,
+        "spearman_rho": 0.8325317175409931
+      },
+      "mean_cumulative_ptrs": {
+        "p_value": 1.3296998500329214e-05,
+        "spearman_rho": -0.14144776842589812
+      },
+      "mean_peak_sales_multiplier": {
+        "p_value": 0.2377960302808417,
+        "spearman_rho": -0.03852055914126522
+      },
+      "mean_total_duration_years": {
+        "p_value": 9.268625632585907e-08,
+        "spearman_rho": -0.1730110935728432
+      },
+      "opportunity_quality_index": {
+        "p_value": 3.6926415359776944e-42,
+        "spearman_rho": -0.4231016671268122
+      },
+      "sd_cost_multiplier": {
+        "p_value": 0.004391775641922123,
+        "spearman_rho": 0.09278331008410948
+      },
+      "sd_cumulative_ptrs": {
+        "p_value": 0.17260704739869212,
+        "spearman_rho": -0.04449816263259189
+      },
+      "sd_peak_sales_multiplier": {
+        "p_value": 0.7080271649901858,
+        "spearman_rho": 0.012224370924280518
+      }
+    },
+    "piap": {
+      "mean_cost_multiplier": {
+        "p_value": 4.2769684215507684e-132,
+        "spearman_rho": 0.7173576412475761
+      },
+      "mean_cumulative_ptrs": {
+        "p_value": 0.0002439959787974862,
+        "spearman_rho": -0.12701022414013124
+      },
+      "mean_peak_sales_multiplier": {
+        "p_value": 0.02982787597417537,
+        "spearman_rho": -0.07541027195531183
+      },
+      "mean_total_duration_years": {
+        "p_value": 0.00277926259929692,
+        "spearman_rho": -0.10370068189973766
+      },
+      "opportunity_quality_index": {
+        "p_value": 6.414930047542895e-33,
+        "spearman_rho": -0.39815129523319415
+      },
+      "sd_cost_multiplier": {
+        "p_value": 0.00024470771941525115,
+        "spearman_rho": 0.12698464306986823
+      },
+      "sd_cumulative_ptrs": {
+        "p_value": 0.03884291012649472,
+        "spearman_rho": -0.07172232906862029
+      },
+      "sd_peak_sales_multiplier": {
+        "p_value": 0.3285074318590978,
+        "spearman_rho": 0.033957887695642286
+      }
+    }
+  }
+}

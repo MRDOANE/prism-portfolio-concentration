@@ -1,0 +1,170 @@
+{
+  "input": "documentation/Beyond_Independent_Shots_on_Goal_Decision_Frontier_Report_v0.2.docx",
+  "fonts_by_char_count": {
+    "Calibri": 14437
+  },
+  "direct_run_formatting_runs": 233,
+  "direct_paragraph_formatting_paragraphs": 229,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "TECHNICAL FINDINGS MEMO",
+      "style": "Normal"
+    },
+    {
+      "para_index": 2,
+      "text": "Decision-Frontier Analysis Report",
+      "style": "Normal"
+    },
+    {
+      "para_index": 5,
+      "text": "Affiliation: Independent Researcher, Cary, North Carolina, USA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 6,
+      "text": "ORCID: 0009-0003-0521-8981",
+      "style": "Normal"
+    },
+    {
+      "para_index": 7,
+      "text": "Date: 29 August 2026",
+      "style": "Normal"
+    },
+    {
+      "para_index": 9,
+      "text": "Disposition: GO to manuscript drafting and E8 matched-heterogeneity robustness",
+      "style": "Normal"
+    },
+    {
+      "para_index": 103,
+      "text": "Decision",
+      "style": "Normal"
+    },
+    {
+      "para_index": 104,
+      "text": "Central result",
+      "style": "Normal"
+    },
+    {
+      "para_index": 105,
+      "text": "Managerial meaning",
+      "style": "Normal"
+    },
+    {
+      "para_index": 121,
+      "text": "Experiment",
+      "style": "Normal"
+    },
+    {
+      "para_index": 122,
+      "text": "Decision variable",
+      "style": "Normal"
+    },
+    {
+      "para_index": 123,
+      "text": "Primary output",
+      "style": "Normal"
+    },
+    {
+      "para_index": 124,
+      "text": "Replications",
+      "style": "Normal"
+    },
+    {
+      "para_index": 141,
+      "text": "Gate",
+      "style": "Normal"
+    },
+    {
+      "para_index": 142,
+      "text": "Result",
+      "style": "Normal"
+    },
+    {
+      "para_index": 143,
+      "text": "Evidence",
+      "style": "Normal"
+    },
+    {
+      "para_index": 162,
+      "text": "Capacity / policy",
+      "style": "Normal"
+    },
+    {
+      "para_index": 163,
+      "text": "Solutions within grid",
+      "style": "Normal"
+    },
+    {
+      "para_index": 164,
+      "text": "Interpretation",
+      "style": "Normal"
+    },
+    {
+      "para_index": 180,
+      "text": "True overlap",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "TECHNICAL FINDINGS MEMO",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "text": "Decision-Frontier Analysis Report",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "text": "Beyond Independent Shots on Goal: Risk Capacity, Synergy, and Concentration in Pharmaceutical R&D Portfolios",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "Author: Michael R. Doane, D.Eng.",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": "Affiliation: Independent Researcher, Cary, North Carolina, USA",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "TECHNICAL FINDINGS MEMO",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "Decision-Frontier Analysis Report",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "Beyond Independent Shots on Goal: Risk Capacity, Synergy, and Concentration in P",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "Author: ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "Michael R. Doane, D.Eng.",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

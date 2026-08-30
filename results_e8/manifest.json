@@ -1,0 +1,38 @@
+{
+  "analysis_version": "0.3",
+  "base_configuration_hash": "32a3711fb5540028",
+  "confirmation_cells": [
+    179,
+    247,
+    616,
+    368,
+    759,
+    555,
+    52,
+    911
+  ],
+  "confirmation_runs": 250000,
+  "exact_states_per_cell": 4096,
+  "files": [
+    "e8_boundary_confirmation.csv",
+    "e8_cell_results.csv",
+    "e8_flat_exact.json",
+    "e8_flat_reconciliation.json",
+    "e8_launch_service_cells.csv",
+    "e8_launch_service_frontier.csv",
+    "e8_opportunity_cells.csv",
+    "validation_report.json"
+  ],
+  "lhs_cells": 1000,
+  "packages": {
+    "PyYAML": "6.0.3",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0"
+  },
+  "plan_hash": "d919a0c9d10818d7",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.39",
+  "python": "3.12.13 (main, Aug  7 2026, 02:25:39) [Clang 22.1.3 ]",
+  "runtime_seconds": 436.0372317529982,
+  "validation_pass": true
+}

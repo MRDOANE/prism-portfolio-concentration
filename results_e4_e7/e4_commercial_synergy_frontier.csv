@@ -1,0 +1,73 @@
+strategy,topology,rho,loe_year,acceleration_years,cannibalization,capacity_profile,risk_policy_profile,minimum_synergy,solution_exists,binding_P5_NPV_usd_m,binding_capacity_breach_probability,delta_eNPV_at_frontier_usd_m,n_runs
+MSOG,same_indication,0.25,15.0,0.0,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,high,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,high,growth,0.01,True,-1148.2457813904614,0.092552,1.0730072997215423,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,high,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.092552,102.18159610919695,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,high,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.092552,211.55129220013177,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,high,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.092552,326.4315869281882,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,high,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,high,growth,0.0,True,-1178.5694457769846,0.094716,0.38485795274946233,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,high,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,high,growth,0.0,True,-1193.6220906520296,0.094716,104.71617899198539,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,high,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,high,growth,0.0,True,-1209.1761310311156,0.094716,214.30833663798964,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,high,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,high,growth,0.0,True,-1225.2505355833287,0.094716,329.42208235922277,250000

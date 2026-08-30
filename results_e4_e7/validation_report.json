@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "E5_staging_cost_avoidance": {
+      "maximum_staged_minus_parallel_eDevCost_usd_m": -102.8435843852073,
+      "pass": true
+    },
+    "E6_boundary_precision": {
+      "maximum_frontier_half_width": 0.00179613005665474,
+      "pass": true
+    },
+    "E6_service_monotonicity": {
+      "pass": true
+    },
+    "E7_nonnegative_value_regret": {
+      "pass": true
+    },
+    "V4_synergy_monotonicity": {
+      "pass": true
+    },
+    "V6_boundary_precision": {
+      "maximum_boundary_eNPV_half_width_usd_m": 9.00147627382185,
+      "maximum_boundary_probability_half_width": 0.001959999480615611,
+      "pass": true
+    }
+  },
+  "pass": true
+}

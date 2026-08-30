@@ -1,0 +1,34 @@
+{
+  "available": true,
+  "comparisons": {
+    "diversified_eNPV_usd_m": {
+      "absolute_difference": 1.1141302000776676,
+      "exact": 85.27460941669094,
+      "monte_carlo": 84.16047921661327,
+      "pass": true,
+      "tolerance": 25.0
+    },
+    "piap_s20_P5_NPV_usd_m": {
+      "absolute_difference": 0.0,
+      "exact": -996.1278265476358,
+      "monte_carlo": -996.1278265476358,
+      "pass": true,
+      "tolerance": 35.0
+    },
+    "piap_s20_eNPV_usd_m": {
+      "absolute_difference": 0.7399117941998838,
+      "exact": 268.66149812807276,
+      "monte_carlo": 267.9215863338729,
+      "pass": true,
+      "tolerance": 25.0
+    },
+    "piap_s20_high_capacity_breach_probability": {
+      "absolute_difference": 0.0001871055872185376,
+      "exact": 0.046364894412781466,
+      "monte_carlo": 0.046552,
+      "pass": true,
+      "tolerance": 0.005
+    }
+  },
+  "pass": true
+}

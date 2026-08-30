@@ -1,0 +1,13 @@
+{
+  "base_configuration_hash": "32a3711fb5540028",
+  "confirmation_runs": 250000,
+  "e4_e7_plan_hash": "d9fb6b32d2bd472e",
+  "e4_e7_validation_pass": true,
+  "e8_plan_hash": "d919a0c9d10818d7",
+  "e8_validation_pass": true,
+  "exact_states_per_cell": 4096,
+  "lhs_cells": 1000,
+  "release": "v1.0.0",
+  "repository": "MRDOANE/prism-portfolio-concentration",
+  "unit_tests": 18
+}

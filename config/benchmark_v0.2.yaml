@@ -1,0 +1,98 @@
+specification:
+  title: "Beyond Independent Shots on Goal: Risk Capacity, Synergy, and Concentration in Pharmaceutical R&D Portfolios"
+  version: "0.2"
+  date: "2026-08-29"
+  currency_units: "constant 2026 USD millions"
+
+simulation:
+  n_programs: 6
+  horizon_years: 20
+  time_step_years: 0.5
+  pilot_runs_per_cell: 10000
+  seed_blocks: [2026082901, 2026082902, 2026082903, 2026082904, 2026082905]
+
+development:
+  phase2:
+    duration_years: 2.0
+    cost_usd_m: 100.0
+    pass_probability: 0.289
+  phase3:
+    duration_years: 3.0
+    cost_usd_m: 400.0
+    pass_probability: 0.578
+  regulatory:
+    duration_years: 1.0
+    cost_usd_m: 50.0
+    pass_probability: 0.906
+
+commercial:
+  peak_sales_usd_m: 1000.0
+  revenue_ramp: [0.20, 0.40, 0.60, 0.80, 1.00]
+  gross_contribution_margin: 0.80
+  support_cost_usd_m_per_year: 100.0
+  discount_rate: 0.10
+  loe_year: 15.0
+  post_loe_sales_fraction: 0.10
+
+enterprise:
+  legacy_revenue_usd_m_per_year: 3000.0
+  legacy_contribution_margin: 0.65
+  legacy_loe_year: 8.0
+  legacy_remaining_fraction_by_year_after_loe: [0.60, 0.30, 0.15]
+  legacy_terminal_fraction: 0.15
+  fixed_operating_cost_usd_m_per_year: 1250.0
+  capacity_profiles:
+    low:
+      starting_liquidity_usd_m: 1000.0
+      financing_capacity_usd_m: 500.0
+      required_reserve_usd_m: 500.0
+    base:
+      starting_liquidity_usd_m: 2000.0
+      financing_capacity_usd_m: 1000.0
+      required_reserve_usd_m: 500.0
+    high:
+      starting_liquidity_usd_m: 4000.0
+      financing_capacity_usd_m: 3000.0
+      required_reserve_usd_m: 500.0
+
+dependence:
+  same_asset_rho_grid: [0.0, 0.20, 0.415, 0.60]
+  shared_biology_rho_grid: [0.0, 0.10, 0.25, 0.40]
+  same_indication_rho_grid: [0.0, 0.10, 0.25, 0.40]
+  common_shock_probability_grid: [0.0, 0.02, 0.05, 0.10]
+  common_shock_gate: "phase3"
+  common_shock_mode: "marginal_parity"
+
+economics_grid:
+  rnd_cost_synergy: [0.0, 0.10, 0.20, 0.30]
+  acceleration_years: [0.0, 0.5, 1.0, 1.5]
+  commercial_cost_synergy: [0.0, 0.10, 0.25, 0.40]
+  cannibalization: [0.0, 0.10, 0.25, 0.50, 1.0]
+
+risk_policy_profiles:
+  preservation:
+    launch_service_threshold: 0.90
+    maximum_capacity_breach_probability: 0.05
+    minimum_p5_npv_usd_m: -500.0
+  balanced:
+    launch_service_threshold: 0.80
+    maximum_capacity_breach_probability: 0.10
+    minimum_p5_npv_usd_m: -1000.0
+  growth:
+    launch_service_threshold: 0.70
+    maximum_capacity_breach_probability: 0.20
+    minimum_p5_npv_usd_m: -1500.0
+
+pilot:
+  e1:
+    piap_rhos: [0.0, 0.20, 0.415, 0.60]
+    msog_rhos: [0.0, 0.10, 0.25, 0.40]
+  e2:
+    piap_rhos: [0.0, 0.20, 0.415, 0.60]
+    msog_rhos: [0.0, 0.10, 0.25, 0.40]
+    common_shock_probabilities: [0.0, 0.02, 0.05, 0.10]
+  e3:
+    piap_rhos: [0.0, 0.415]
+    msog_rhos: [0.0, 0.25]
+    cannibalization: [0.0, 0.10, 0.25, 0.50, 1.0]
+

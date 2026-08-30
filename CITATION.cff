@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or its reference results, please cite the archived release."
+title: "PRISM Portfolio Concentration Simulation"
+type: software
+authors:
+  - family-names: "Doane"
+    given-names: "Michael R."
+    orcid: "https://orcid.org/0009-0003-0521-8981"
+    affiliation: "Independent Researcher"
+abstract: >-
+  Simulation and analytical code for evaluating technical dependence, R&D
+  synergy, commercial cannibalization, tail risk, risk capacity, effective
+  breadth, and rolling launch-service reliability in pharmaceutical R&D
+  portfolios.
+version: 1.0.0
+date-released: 2026-08-30
+repository-code: "https://github.com/MRDOANE/prism-portfolio-concentration"
+license: MIT
+keywords:
+  - pharmaceutical R&D
+  - portfolio management
+  - risk capacity
+  - technical dependence
+  - revenue cannibalization
+  - Monte Carlo simulation
+  - expected net present value
+

@@ -1,0 +1,50 @@
+{
+  "analysis_version": "0.2",
+  "base_configuration_hash": "32a3711fb5540028",
+  "boundary_runs": 250000,
+  "e6_runs": 250000,
+  "files": [
+    "E4_E7_RESULTS_MEMO.md",
+    "e4_cannibalization_shift_frontier.csv",
+    "e4_cell_metrics.csv",
+    "e4_commercial_synergy_frontier.csv",
+    "e4_commercial_synergy_metrics.csv",
+    "e4_diversified_reference.csv",
+    "e4_interaction_metrics.csv",
+    "e4_rnd_acceleration_frontier.csv",
+    "e5_policy_metrics.csv",
+    "e5_staged_vs_parallel.csv",
+    "e6_independent_binomial_check.csv",
+    "e6_launch_service_cells.csv",
+    "e6_launch_service_frontier.csv",
+    "e7_assumption_regret.csv",
+    "fig1_concentration_decision_map.png",
+    "fig2_capacity_constraint.png",
+    "fig3_staged_parallel_tradeoff.png",
+    "fig4_launch_service_frontier.png",
+    "fig5_additivity_regret.png",
+    "headline_results.json",
+    "report_a11y.json",
+    "report_style_lint.json",
+    "validation_report.json"
+  ],
+  "packages": {
+    "PyYAML": "6.0.3",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0"
+  },
+  "plan_hash": "d9fb6b32d2bd472e",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.39",
+  "primary_runs": 100000,
+  "python": "3.12.13 (main, Aug  7 2026, 02:25:39) [Clang 22.1.3 ]",
+  "runtime_seconds": 482.4183759910011,
+  "seed_blocks": [
+    2026082901,
+    2026082902,
+    2026082903,
+    2026082904,
+    2026082905
+  ],
+  "validation_pass": true
+}

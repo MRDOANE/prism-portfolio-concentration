@@ -1,0 +1,43 @@
+analysis:
+  name: "E4-E7 decision-frontier analysis"
+  version: "0.2"
+  date: "2026-08-29"
+  base_configuration: "benchmark_v0.2.yaml"
+
+precision:
+  primary_runs: 100000
+  boundary_runs: 250000
+  block_runs: 20000
+  probability_half_width_target: 0.0025
+  eNPV_difference_half_width_usd_m: 25.0
+
+e4:
+  loe_years: [12.0, 15.0, 18.0]
+  acceleration_years: [0.0, 0.5, 1.0, 1.5]
+  rnd_synergy_search: {start: 0.0, stop: 0.30, step: 0.01}
+  commercial_synergy_search: {start: 0.0, stop: 0.40, step: 0.01}
+  cannibalization_for_regret: [0.0, 0.10, 0.25, 0.50]
+  cost_synergy_for_regret: [0.0, 0.10, 0.20, 0.30]
+  boundary_rhos:
+    parallel_piap: [0.415]
+    msog: [0.25]
+
+e5:
+  same_asset_rho: 0.415
+  common_shock_probabilities: [0.0, 0.05]
+  loe_years: [12.0, 15.0, 18.0]
+  acceleration_years: [0.0, 0.5, 1.0, 1.5]
+
+e6:
+  runs: 250000
+  maximum_nominal_breadth: 120
+  launch_targets: [1, 2, 3]
+  service_targets: [0.70, 0.80, 0.90]
+  geometries:
+    - {name: "Diversified", cluster_size: 1, rho: 0.0}
+    - {name: "MSOG trios", cluster_size: 3, rho: 0.25}
+    - {name: "PIAP sixes", cluster_size: 6, rho: 0.415}
+
+e7:
+  policy_profiles: [preservation, balanced, growth]
+  capacity_profiles: [low, base, high]

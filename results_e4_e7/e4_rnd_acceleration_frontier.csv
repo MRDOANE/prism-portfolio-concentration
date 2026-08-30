@@ -1,0 +1,865 @@
+strategy,topology,rho,loe_year,acceleration_years,cannibalization,capacity_profile,risk_policy_profile,minimum_synergy,solution_exists,binding_P5_NPV_usd_m,binding_capacity_breach_probability,delta_eNPV_at_frontier_usd_m,n_runs
+MSOG,same_indication,0.0,12.0,0.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.0,0.0,high,balanced,0.17,True,-994.0623250940034,0.0216,156.0889586061393,100000
+MSOG,same_indication,0.0,12.0,0.0,0.0,high,growth,0.0,True,-1148.2457813904614,0.09536,0.0,100000
+MSOG,same_indication,0.0,12.0,0.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,0.5,0.0,high,balanced,0.18,True,-995.5521338513649,0.0216,271.81593854957845,100000
+MSOG,same_indication,0.0,12.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09535,104.55235081844671,100000
+MSOG,same_indication,0.0,12.0,1.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.0,0.0,high,balanced,0.19,True,-997.1470200694989,0.0216,393.1070324421852,100000
+MSOG,same_indication,0.0,12.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09535,214.37682036299512,100000
+MSOG,same_indication,0.0,12.0,1.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,12.0,1.5,0.0,high,balanced,0.2,True,-998.8471168185526,0.0216,520.2375225863744,100000
+MSOG,same_indication,0.0,12.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09535,329.7347224210436,100000
+MSOG,same_indication,0.0,15.0,0.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.0,0.0,high,balanced,0.17,True,-994.0623250940034,0.0216,156.0889586061393,100000
+MSOG,same_indication,0.0,15.0,0.0,0.0,high,growth,0.0,True,-1148.2457813904614,0.09533,0.0,100000
+MSOG,same_indication,0.0,15.0,0.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,0.5,0.0,high,balanced,0.18,True,-995.5521338513649,0.0216,271.81593854957845,100000
+MSOG,same_indication,0.0,15.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09533,104.55235081844674,100000
+MSOG,same_indication,0.0,15.0,1.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.0,0.0,high,balanced,0.19,True,-997.1470200694989,0.0216,393.1070324421853,100000
+MSOG,same_indication,0.0,15.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09533,214.37682036299512,100000
+MSOG,same_indication,0.0,15.0,1.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,15.0,1.5,0.0,high,balanced,0.2,True,-998.8471168185526,0.0216,520.2375225863744,100000
+MSOG,same_indication,0.0,15.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09533,329.73472242104367,100000
+MSOG,same_indication,0.0,18.0,0.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.0,0.0,high,balanced,0.17,True,-994.0623250940034,0.0216,156.0889586061393,100000
+MSOG,same_indication,0.0,18.0,0.0,0.0,high,growth,0.0,True,-1148.2457813904614,0.09533,0.0,100000
+MSOG,same_indication,0.0,18.0,0.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,0.5,0.0,high,balanced,0.18,True,-995.5521338513649,0.0216,271.8159385495784,100000
+MSOG,same_indication,0.0,18.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09533,104.55235081844671,100000
+MSOG,same_indication,0.0,18.0,1.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.0,0.0,high,balanced,0.19,True,-997.1470200694989,0.0216,393.1070324421852,100000
+MSOG,same_indication,0.0,18.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09533,214.37682036299512,100000
+MSOG,same_indication,0.0,18.0,1.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.0,18.0,1.5,0.0,high,balanced,0.2,True,-998.8471168185526,0.0216,520.2375225863744,100000
+MSOG,same_indication,0.0,18.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09533,329.7347224210436,100000
+MSOG,same_indication,0.1,12.0,0.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.02745,181.6969818666477,100000
+MSOG,same_indication,0.1,12.0,0.0,0.0,high,growth,0.01,True,-1140.6398836483202,0.09386,7.4749944785794735,100000
+MSOG,same_indication,0.1,12.0,0.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.02704,297.31508779128967,100000
+MSOG,same_indication,0.1,12.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.0938,102.43535134650944,100000
+MSOG,same_indication,0.1,12.0,1.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.02704,409.09244245165706,100000
+MSOG,same_indication,0.1,12.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.0938,211.81635248487487,100000
+MSOG,same_indication,0.1,12.0,1.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,12.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.02704,535.9739157104391,100000
+MSOG,same_indication,0.1,12.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.0938,326.70869557282447,100000
+MSOG,same_indication,0.1,15.0,0.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.0,0.0,high,balanced,0.19,True,-996.9177731667368,0.02745,170.32071777684075,100000
+MSOG,same_indication,0.1,15.0,0.0,0.0,high,growth,0.01,True,-1140.6398836483202,0.09376,5.268308672355073,100000
+MSOG,same_indication,0.1,15.0,0.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,0.5,0.0,high,balanced,0.2,True,-998.9873428875355,0.02745,285.82841453531387,100000
+MSOG,same_indication,0.1,15.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09376,100.22866554028505,100000
+MSOG,same_indication,0.1,15.0,1.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.02704,406.8857566454327,100000
+MSOG,same_indication,0.1,15.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09376,209.60966667865046,100000
+MSOG,same_indication,0.1,15.0,1.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,15.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.02704,533.7672299042148,100000
+MSOG,same_indication,0.1,15.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09376,324.5020097666001,100000
+MSOG,same_indication,0.1,18.0,0.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.0,0.0,high,balanced,0.19,True,-996.9177731667368,0.02745,168.6628020696849,100000
+MSOG,same_indication,0.1,18.0,0.0,0.0,high,growth,0.01,True,-1140.6398836483202,0.09376,3.610392965199242,100000
+MSOG,same_indication,0.1,18.0,0.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,0.5,0.0,high,balanced,0.2,True,-998.9873428875355,0.02745,284.17049882815803,100000
+MSOG,same_indication,0.1,18.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09376,98.5707498331292,100000
+MSOG,same_indication,0.1,18.0,1.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.02704,405.22784093827687,100000
+MSOG,same_indication,0.1,18.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09376,207.95175097149462,100000
+MSOG,same_indication,0.1,18.0,1.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.1,18.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.02704,532.1093141970588,100000
+MSOG,same_indication,0.1,18.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09376,322.8440940594442,100000
+MSOG,same_indication,0.25,12.0,0.0,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.0,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.0,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.0,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.0,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.0,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.0,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.035928,182.62017116395958,250000
+MSOG,same_indication,0.25,12.0,0.0,0.0,high,growth,0.01,True,-1167.7160857368092,0.092884,8.485077340780979,250000
+MSOG,same_indication,0.25,12.0,0.5,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.5,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.5,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.5,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.5,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.5,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.5,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.035384,298.2209702334999,250000
+MSOG,same_indication,0.25,12.0,0.5,0.0,high,growth,0.0,True,-1193.6220906520296,0.09278,103.43940701874482,250000
+MSOG,same_indication,0.25,12.0,1.0,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.0,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.0,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.0,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.0,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.0,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.0,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.035384,409.9848220578568,250000
+MSOG,same_indication,0.25,12.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09278,212.80910310967963,250000
+MSOG,same_indication,0.25,12.0,1.5,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.5,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.5,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.5,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.5,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.5,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.5,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,12.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.035384,536.8470946953012,250000
+MSOG,same_indication,0.25,12.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09278,327.689397837736,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.035928,181.3623602544117,250000
+MSOG,same_indication,0.25,15.0,0.0,0.0,high,growth,0.01,True,-1140.6398836483202,0.092552,7.227266431233075,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.035384,296.96315932395197,250000
+MSOG,same_indication,0.25,15.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.092552,102.18159610919695,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.035384,408.7270111483089,250000
+MSOG,same_indication,0.25,15.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.092552,211.55129220013177,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.035384,535.5892837857533,250000
+MSOG,same_indication,0.25,15.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.092552,326.4315869281882,250000
+MSOG,same_indication,0.25,18.0,0.0,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.0,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.0,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.0,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.0,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.0,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.0,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.035928,180.41734830133285,250000
+MSOG,same_indication,0.25,18.0,0.0,0.0,high,growth,0.01,True,-1140.6398836483202,0.092552,6.282254478154243,250000
+MSOG,same_indication,0.25,18.0,0.5,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.5,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.5,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.5,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.5,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.5,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.5,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.035384,296.01814737087307,250000
+MSOG,same_indication,0.25,18.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.092552,101.23658415611807,250000
+MSOG,same_indication,0.25,18.0,1.0,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.0,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.0,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.0,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.0,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.0,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.0,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.035384,407.78199919523,250000
+MSOG,same_indication,0.25,18.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.092552,210.60628024705287,250000
+MSOG,same_indication,0.25,18.0,1.5,0.0,low,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.5,0.0,low,balanced,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.5,0.0,low,growth,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.5,0.0,base,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.5,0.0,base,balanced,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.5,0.0,base,growth,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.5,0.0,high,preservation,,False,,,,250000
+MSOG,same_indication,0.25,18.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.035384,534.6442718326743,250000
+MSOG,same_indication,0.25,18.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.092552,325.4865749751092,250000
+MSOG,same_indication,0.4,12.0,0.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.0,0.0,high,balanced,0.24,True,-996.0278999655939,0.04471,218.50420833469337,100000
+MSOG,same_indication,0.4,12.0,0.0,0.0,high,growth,0.01,True,-1382.4196020912866,0.09627,7.596854697771268,100000
+MSOG,same_indication,0.4,12.0,0.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,0.5,0.0,high,balanced,0.24,True,-995.2455170365354,0.04471,325.344050488591,100000
+MSOG,same_indication,0.4,12.0,0.5,0.0,high,growth,0.0,True,-1307.2645234489842,0.09597,102.61668730667606,100000
+MSOG,same_indication,0.4,12.0,1.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.0,0.0,high,balanced,0.22,True,-991.6700154013897,0.04471,418.7378995212408,100000
+MSOG,same_indication,0.4,12.0,1.0,0.0,high,growth,0.0,True,-1242.5321618562914,0.09597,212.06039225276433,100000
+MSOG,same_indication,0.4,12.0,1.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,12.0,1.5,0.0,high,balanced,0.23,True,-991.8243612111823,0.04471,545.8037486836041,100000
+MSOG,same_indication,0.4,12.0,1.5,0.0,high,growth,0.0,True,-1260.2346358526092,0.09597,327.0185032312269,100000
+MSOG,same_indication,0.4,15.0,0.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.04529,179.795743566583,100000
+MSOG,same_indication,0.4,15.0,0.0,0.0,high,growth,0.01,True,-1167.7160857368092,0.0954,5.567929692603841,100000
+MSOG,same_indication,0.4,15.0,0.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.04471,295.47420508568416,100000
+MSOG,same_indication,0.4,15.0,0.5,0.0,high,growth,0.0,True,-1193.6220906520296,0.0954,100.58776230150865,100000
+MSOG,same_indication,0.4,15.0,1.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.04471,407.3145423675063,100000
+MSOG,same_indication,0.4,15.0,1.0,0.0,high,growth,0.0,True,-1209.1761310311156,0.0954,210.0314672475969,100000
+MSOG,same_indication,0.4,15.0,1.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,15.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.04471,534.2624217022466,100000
+MSOG,same_indication,0.4,15.0,1.5,0.0,high,growth,0.0,True,-1225.2505355833287,0.0954,324.98957822605945,100000
+MSOG,same_indication,0.4,18.0,0.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.04529,178.2713821802814,100000
+MSOG,same_indication,0.4,18.0,0.0,0.0,high,growth,0.01,True,-1167.7160857368092,0.0954,4.0435683063022125,100000
+MSOG,same_indication,0.4,18.0,0.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.04471,293.94984369938254,100000
+MSOG,same_indication,0.4,18.0,0.5,0.0,high,growth,0.0,True,-1193.6220906520296,0.0954,99.06340091520701,100000
+MSOG,same_indication,0.4,18.0,1.0,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.0,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.0,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.0,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.0,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.0,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.0,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.04471,405.7901809812047,100000
+MSOG,same_indication,0.4,18.0,1.0,0.0,high,growth,0.0,True,-1209.1761310311156,0.0954,208.50710586129523,100000
+MSOG,same_indication,0.4,18.0,1.5,0.0,low,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.5,0.0,low,balanced,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.5,0.0,low,growth,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.5,0.0,base,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.5,0.0,base,balanced,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.5,0.0,base,growth,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.5,0.0,high,preservation,,False,,,,100000
+MSOG,same_indication,0.4,18.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.04471,532.7380603159447,100000
+MSOG,same_indication,0.4,18.0,1.5,0.0,high,growth,0.0,True,-1225.2505355833287,0.0954,323.4652168397578,100000
+Parallel PIAP,same_asset,0.0,12.0,0.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.0,0.0,high,balanced,0.17,True,-994.0623250940034,0.0216,156.0889586061393,100000
+Parallel PIAP,same_asset,0.0,12.0,0.0,0.0,high,growth,0.0,True,-1148.2457813904614,0.09536,0.0,100000
+Parallel PIAP,same_asset,0.0,12.0,0.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,0.5,0.0,high,balanced,0.18,True,-995.5521338513649,0.0216,271.81593854957845,100000
+Parallel PIAP,same_asset,0.0,12.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09535,104.55235081844671,100000
+Parallel PIAP,same_asset,0.0,12.0,1.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.0,0.0,high,balanced,0.19,True,-997.1470200694989,0.0216,393.1070324421852,100000
+Parallel PIAP,same_asset,0.0,12.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09535,214.37682036299512,100000
+Parallel PIAP,same_asset,0.0,12.0,1.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,12.0,1.5,0.0,high,balanced,0.2,True,-998.8471168185526,0.0216,520.2375225863744,100000
+Parallel PIAP,same_asset,0.0,12.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09535,329.7347224210436,100000
+Parallel PIAP,same_asset,0.0,15.0,0.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.0,0.0,high,balanced,0.17,True,-994.0623250940034,0.0216,156.0889586061393,100000
+Parallel PIAP,same_asset,0.0,15.0,0.0,0.0,high,growth,0.0,True,-1148.2457813904614,0.09533,0.0,100000
+Parallel PIAP,same_asset,0.0,15.0,0.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,0.5,0.0,high,balanced,0.18,True,-995.5521338513649,0.0216,271.81593854957845,100000
+Parallel PIAP,same_asset,0.0,15.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09533,104.55235081844674,100000
+Parallel PIAP,same_asset,0.0,15.0,1.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.0,0.0,high,balanced,0.19,True,-997.1470200694989,0.0216,393.1070324421853,100000
+Parallel PIAP,same_asset,0.0,15.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09533,214.37682036299512,100000
+Parallel PIAP,same_asset,0.0,15.0,1.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,15.0,1.5,0.0,high,balanced,0.2,True,-998.8471168185526,0.0216,520.2375225863744,100000
+Parallel PIAP,same_asset,0.0,15.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09533,329.73472242104367,100000
+Parallel PIAP,same_asset,0.0,18.0,0.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.0,0.0,high,balanced,0.17,True,-994.0623250940034,0.0216,156.0889586061393,100000
+Parallel PIAP,same_asset,0.0,18.0,0.0,0.0,high,growth,0.0,True,-1148.2457813904614,0.09533,0.0,100000
+Parallel PIAP,same_asset,0.0,18.0,0.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,0.5,0.0,high,balanced,0.18,True,-995.5521338513649,0.0216,271.8159385495784,100000
+Parallel PIAP,same_asset,0.0,18.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09533,104.55235081844671,100000
+Parallel PIAP,same_asset,0.0,18.0,1.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.0,0.0,high,balanced,0.19,True,-997.1470200694989,0.0216,393.1070324421852,100000
+Parallel PIAP,same_asset,0.0,18.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09533,214.37682036299512,100000
+Parallel PIAP,same_asset,0.0,18.0,1.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.0,18.0,1.5,0.0,high,balanced,0.2,True,-998.8471168185526,0.0216,520.2375225863744,100000
+Parallel PIAP,same_asset,0.0,18.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09533,329.7347224210436,100000
+Parallel PIAP,same_asset,0.2,12.0,0.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.03329,180.813632597983,100000
+Parallel PIAP,same_asset,0.2,12.0,0.0,0.0,high,growth,0.01,True,-1140.6398836483202,0.09384,6.623072251369441,100000
+Parallel PIAP,same_asset,0.2,12.0,0.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.03278,296.285416394282,100000
+Parallel PIAP,same_asset,0.2,12.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09371,101.44131414907926,100000
+Parallel PIAP,same_asset,0.2,12.0,1.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.03278,407.9109958209999,100000
+Parallel PIAP,same_asset,0.2,12.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09371,210.67147073520817,100000
+Parallel PIAP,same_asset,0.2,12.0,1.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,12.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.03278,534.6314516376356,100000
+Parallel PIAP,same_asset,0.2,12.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09371,325.40554701941824,100000
+Parallel PIAP,same_asset,0.2,15.0,0.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.03329,177.47908515746607,100000
+Parallel PIAP,same_asset,0.2,15.0,0.0,0.0,high,growth,0.01,True,-1140.6398836483202,0.09357,3.2885248108525724,100000
+Parallel PIAP,same_asset,0.2,15.0,0.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.03278,292.95086895376517,100000
+Parallel PIAP,same_asset,0.2,15.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09357,98.10676670856242,100000
+Parallel PIAP,same_asset,0.2,15.0,1.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.03278,404.57644838048304,100000
+Parallel PIAP,same_asset,0.2,15.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09357,207.3369232946913,100000
+Parallel PIAP,same_asset,0.2,15.0,1.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,15.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.03278,531.2969041971189,100000
+Parallel PIAP,same_asset,0.2,15.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09357,322.0709995789015,100000
+Parallel PIAP,same_asset,0.2,18.0,0.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.03329,174.9737903110973,100000
+Parallel PIAP,same_asset,0.2,18.0,0.0,0.0,high,growth,0.01,True,-1140.6398836483202,0.09357,0.7832299644837604,100000
+Parallel PIAP,same_asset,0.2,18.0,0.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.03278,290.4455741073963,100000
+Parallel PIAP,same_asset,0.2,18.0,0.5,0.0,high,growth,0.0,True,-1161.8183631345016,0.09357,95.60147186219356,100000
+Parallel PIAP,same_asset,0.2,18.0,1.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.03278,402.07115353411416,100000
+Parallel PIAP,same_asset,0.2,18.0,1.0,0.0,high,growth,0.0,True,-1175.82010020594,0.09357,204.83162844832245,100000
+Parallel PIAP,same_asset,0.2,18.0,1.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.2,18.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.03278,528.7916093507499,100000
+Parallel PIAP,same_asset,0.2,18.0,1.5,0.0,high,growth,0.0,True,-1190.266435314048,0.09357,319.5657047325326,100000
+Parallel PIAP,same_asset,0.415,12.0,0.0,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.0,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.0,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.0,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.0,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.0,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.0,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.0,0.0,high,balanced,0.27,True,-995.3464817413321,0.045904,247.85697876570725,250000
+Parallel PIAP,same_asset,0.415,12.0,0.0,0.0,high,growth,0.0,True,-1429.7883144701884,0.098452,0.29904239361850843,250000
+Parallel PIAP,same_asset,0.415,12.0,0.5,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.5,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.5,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.5,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.5,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.5,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.5,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,0.5,0.0,high,balanced,0.28,True,-985.2217268612351,0.045904,364.44859257558846,250000
+Parallel PIAP,same_asset,0.415,12.0,0.5,0.0,high,growth,0.0,True,-1428.0898767027502,0.095348,104.63036343285438,250000
+Parallel PIAP,same_asset,0.415,12.0,1.0,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.0,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.0,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.0,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.0,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.0,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.0,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.0,0.0,high,balanced,0.25,True,-993.4557305116157,0.045904,449.0559214794724,250000
+Parallel PIAP,same_asset,0.415,12.0,1.0,0.0,high,growth,0.0,True,-1422.8239034190715,0.095348,214.22252107885865,250000
+Parallel PIAP,same_asset,0.415,12.0,1.5,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.5,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.5,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.5,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.5,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.5,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.5,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,12.0,1.5,0.0,high,balanced,0.26,True,-991.9283162457826,0.045904,576.6299134655454,250000
+Parallel PIAP,same_asset,0.415,12.0,1.5,0.0,high,growth,0.0,True,-1292.6758217850233,0.095348,329.3362668000917,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.046552,183.76110711725963,250000
+Parallel PIAP,same_asset,0.415,15.0,0.0,0.0,high,growth,0.0,True,-1178.5694457769846,0.094716,0.38485795274946233,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.045904,299.5798508490359,250000
+Parallel PIAP,same_asset,0.415,15.0,0.5,0.0,high,growth,0.0,True,-1193.6220906520296,0.094716,104.71617899198539,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.045904,411.5683929745052,250000
+Parallel PIAP,same_asset,0.415,15.0,1.0,0.0,high,growth,0.0,True,-1209.1761310311156,0.094716,214.30833663798964,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.045904,538.6705526146067,250000
+Parallel PIAP,same_asset,0.415,15.0,1.5,0.0,high,growth,0.0,True,-1225.2505355833287,0.094716,329.42208235922277,250000
+Parallel PIAP,same_asset,0.415,18.0,0.0,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.0,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.0,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.0,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.0,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.0,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.0,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.0,0.0,high,balanced,0.2,True,-996.1278265476358,0.046552,183.8255816169824,250000
+Parallel PIAP,same_asset,0.415,18.0,0.0,0.0,high,growth,0.0,True,-1178.5694457769846,0.094716,0.44933245247218084,250000
+Parallel PIAP,same_asset,0.415,18.0,0.5,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.5,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.5,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.5,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.5,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.5,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.5,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,0.5,0.0,high,balanced,0.21,True,-993.8830985943904,0.045904,299.64432534875857,250000
+Parallel PIAP,same_asset,0.415,18.0,0.5,0.0,high,growth,0.0,True,-1193.6220906520296,0.094716,104.78065349170805,250000
+Parallel PIAP,same_asset,0.415,18.0,1.0,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.0,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.0,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.0,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.0,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.0,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.0,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.0,0.0,high,balanced,0.21,True,-999.4137847376085,0.045904,411.63286747422785,250000
+Parallel PIAP,same_asset,0.415,18.0,1.0,0.0,high,growth,0.0,True,-1209.1761310311156,0.094716,214.3728111377123,250000
+Parallel PIAP,same_asset,0.415,18.0,1.5,0.0,low,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.5,0.0,low,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.5,0.0,low,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.5,0.0,base,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.5,0.0,base,balanced,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.5,0.0,base,growth,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.5,0.0,high,preservation,,False,,,,250000
+Parallel PIAP,same_asset,0.415,18.0,1.5,0.0,high,balanced,0.22,True,-997.3040860935519,0.045904,538.7350271143293,250000
+Parallel PIAP,same_asset,0.415,18.0,1.5,0.0,high,growth,0.0,True,-1225.2505355833287,0.094716,329.4865568589454,250000
+Parallel PIAP,same_asset,0.6,12.0,0.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.0,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.0,0.0,high,growth,0.01,True,-1432.1182234110356,0.10273,7.424259596235068,100000
+Parallel PIAP,same_asset,0.6,12.0,0.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.5,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,0.5,0.0,high,growth,0.0,True,-1463.0272194234062,0.10222,102.3860694933841,100000
+Parallel PIAP,same_asset,0.6,12.0,1.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.0,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.0,0.0,high,growth,0.0,True,-1484.0298250305636,0.10222,211.76873987737372,100000
+Parallel PIAP,same_asset,0.6,12.0,1.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.5,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,12.0,1.5,0.0,high,growth,0.01,True,-1491.5746688333927,0.10118,336.1750263533343,100000
+Parallel PIAP,same_asset,0.6,15.0,0.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.0,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.0,0.0,high,growth,0.01,True,-1429.1739977568666,0.10094,4.855922505101679,100000
+Parallel PIAP,same_asset,0.6,15.0,0.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.5,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,0.5,0.0,high,growth,0.0,True,-1456.2409285513863,0.10094,99.81773240225073,100000
+Parallel PIAP,same_asset,0.6,15.0,1.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.0,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.0,0.0,high,growth,0.0,True,-1470.2426656228245,0.10094,209.20040278624043,100000
+Parallel PIAP,same_asset,0.6,15.0,1.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.5,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,15.0,1.5,0.0,high,growth,0.0,True,-1484.6890007309323,0.10094,324.09450734024847,100000
+Parallel PIAP,same_asset,0.6,18.0,0.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.0,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.0,0.0,high,growth,0.01,True,-1429.1739977568666,0.10094,2.9262928348286192,100000
+Parallel PIAP,same_asset,0.6,18.0,0.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.5,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,0.5,0.0,high,growth,0.0,True,-1456.2409285513863,0.10094,97.88810273197763,100000
+Parallel PIAP,same_asset,0.6,18.0,1.0,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.0,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.0,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.0,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.0,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.0,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.0,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.0,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.0,0.0,high,growth,0.0,True,-1470.2426656228245,0.10094,207.2707731159673,100000
+Parallel PIAP,same_asset,0.6,18.0,1.5,0.0,low,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.5,0.0,low,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.5,0.0,low,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.5,0.0,base,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.5,0.0,base,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.5,0.0,base,growth,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.5,0.0,high,preservation,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.5,0.0,high,balanced,,False,,,,100000
+Parallel PIAP,same_asset,0.6,18.0,1.5,0.0,high,growth,0.0,True,-1484.6890007309323,0.10094,322.1648776699753,100000

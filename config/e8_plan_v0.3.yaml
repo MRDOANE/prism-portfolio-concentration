@@ -1,0 +1,70 @@
+analysis:
+  name: "E8 matched-heterogeneity robustness"
+  version: "0.3"
+  date: "2026-08-30"
+  base_configuration: "benchmark_v0.2.yaml"
+
+design:
+  lhs_cells: 1000
+  lhs_seed: 2026083001
+  opportunity_permutation_seed: 2026083002
+  gaussian_hermite_nodes: 32
+  exact_state_enumeration: true
+  note: >-
+    Exact Gaussian-factor integration over all 4^6 realized program-state
+    combinations replaces noisy 20,000-path screening within each LHS cell.
+    Prespecified Monte Carlo remains the independent boundary confirmation.
+
+heterogeneity:
+  cumulative_ptrs:
+    distribution: triangular
+    lower: 0.075
+    mode: 0.151
+    upper: 0.227
+  development_cost_multiplier:
+    distribution: triangular
+    lower: 0.70
+    mode: 1.00
+    upper: 1.30
+  peak_sales_multiplier:
+    distribution: triangular
+    lower: 0.50
+    mode: 1.00
+    upper: 1.50
+  duration_years:
+    shared_program_rank: true
+    phase2: {lower: 1.5, mode: 1.5, upper: 3.0, increment: 0.5}
+    phase3: {lower: 2.0, mode: 3.0, upper: 4.0, increment: 0.5}
+    regulatory: {lower: 0.5, mode: 1.0, upper: 1.5, increment: 0.5}
+
+decision:
+  loe_year: 15.0
+  acceleration_years: 0.0
+  synergy_grid: {start: 0.0, stop: 0.30, step: 0.01}
+  cannibalization_levels: [0.0, 0.25]
+  piap_rho: 0.415
+  msog_rho: 0.25
+  primary_capacity_profile: high
+  primary_risk_policy_profile: balanced
+  secondary_capacity_profile: base
+  secondary_risk_policy_profile: growth
+  additivity_regret_rnd_synergy: 0.10
+  additivity_regret_cannibalization: 0.25
+  value_choice_tolerance_usd_m: 25.0
+
+confirmation:
+  selected_boundary_cells: 8
+  runs: 250000
+  seed_offset: 830000000
+  probability_half_width_target: 0.0025
+  eNPV_difference_half_width_usd_m: 25.0
+
+launch_service:
+  runs: 250000
+  maximum_nominal_breadth: 50
+  launch_targets: [1, 2, 3]
+  service_targets: [0.70, 0.80, 0.90]
+  geometries:
+    - {name: "Diversified", cluster_size: 1, rho: 0.0}
+    - {name: "MSOG trios", cluster_size: 3, rho: 0.25}
+    - {name: "PIAP sixes", cluster_size: 6, rho: 0.415}

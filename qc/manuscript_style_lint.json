@@ -1,0 +1,170 @@
+{
+  "input": "documentation/Beyond_Independent_Shots_on_Goal_Manuscript_v0.3.docx",
+  "fonts_by_char_count": {
+    "Calibri": 36834
+  },
+  "direct_run_formatting_runs": 284,
+  "direct_paragraph_formatting_paragraphs": 265,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "ORIGINAL RESEARCH MANUSCRIPT",
+      "style": "Normal"
+    },
+    {
+      "para_index": 5,
+      "text": "Affiliation: Independent Researcher, Cary, North Carolina, USA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 6,
+      "text": "ORCID: 0009-0003-0521-8981",
+      "style": "Normal"
+    },
+    {
+      "para_index": 7,
+      "text": "Correspondence: Michael R. Doane; email to be supplied at submission",
+      "style": "Normal"
+    },
+    {
+      "para_index": 8,
+      "text": "Working target: Therapeutic Innovation & Regulatory Science",
+      "style": "Normal"
+    },
+    {
+      "para_index": 9,
+      "text": "Draft: Version 0.3, 30 August 2026",
+      "style": "Normal"
+    },
+    {
+      "para_index": 28,
+      "text": "Table 1. Benchmark assumptions, strategies, and risk policies",
+      "style": "Caption"
+    },
+    {
+      "para_index": 47,
+      "text": "Table 2. Flat-benchmark portfolio scorecard at empirical dependence anchors",
+      "style": "Caption"
+    },
+    {
+      "para_index": 76,
+      "text": "Table 3. Decision outputs from matched-heterogeneity robustness",
+      "style": "Caption"
+    },
+    {
+      "para_index": 143,
+      "text": "Table S1. Numerical and reproducibility checks",
+      "style": "Caption"
+    },
+    {
+      "para_index": 154,
+      "text": "Domain",
+      "style": "Normal"
+    },
+    {
+      "para_index": 155,
+      "text": "Assumption",
+      "style": "Normal"
+    },
+    {
+      "para_index": 156,
+      "text": "Primary value",
+      "style": "Normal"
+    },
+    {
+      "para_index": 187,
+      "text": "Strategy",
+      "style": "Normal"
+    },
+    {
+      "para_index": 188,
+      "text": "eNPV",
+      "style": "Normal"
+    },
+    {
+      "para_index": 189,
+      "text": "ePI",
+      "style": "Normal"
+    },
+    {
+      "para_index": 190,
+      "text": "P5 NPV",
+      "style": "Normal"
+    },
+    {
+      "para_index": 191,
+      "text": "CVaR5",
+      "style": "Normal"
+    },
+    {
+      "para_index": 192,
+      "text": "SD NPV",
+      "style": "Normal"
+    },
+    {
+      "para_index": 193,
+      "text": "P(0 launches)",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "ORIGINAL RESEARCH MANUSCRIPT",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "text": "Beyond Independent Shots on Goal: Risk Capacity, Synergy, and Concentration in Pharmaceutical R&D Portfolios",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "text": "A simulation-based decision framework for pipeline-in-a-pill and multiple-shots-on-goal strategies",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "Author: Michael R. Doane, D.Eng.",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": "Affiliation: Independent Researcher, Cary, North Carolina, USA",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "ORIGINAL RESEARCH MANUSCRIPT",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "Beyond Independent Shots on Goal: Risk Capacity, Synergy, and Concentration in P",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "A simulation-based decision framework for pipeline-in-a-pill and multiple-shots-",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "Author: ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "Michael R. Doane, D.Eng.",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}
